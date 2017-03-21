@@ -5,7 +5,7 @@ description: "Online Territory of Shikher Verma"  # used in site head
 
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
-disqus_url: cis6930.com
+disqus_url: cis6930.github.io
 disqus_id: cis6930
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
 feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wannabe&amp;loc=en_US
@@ -13,7 +13,6 @@ feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wan
 # footer details. Deleting the value would remove it from footer.
 github_username:  cis6930
 facebook_username:  scis6930
-email: root@shikherverma.com
 copyright_name: cis6930
 rss : true
 
